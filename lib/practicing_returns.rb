@@ -9,3 +9,4 @@ def hello(array)
   end
 end
 
+yield(array[i])
